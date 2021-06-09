@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Description
 
 A simple React application that get the user's geo location and print out a message according to seasons Summer/Winter
 
